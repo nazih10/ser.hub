@@ -1,0 +1,6 @@
+بيانات اختبار للتجربة:
+
+مستخدم عادي: user@example.com / password123
+
+مستخدم إداري: admin@example.com / admin123
+

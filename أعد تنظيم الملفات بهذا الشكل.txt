@@ -1,0 +1,15 @@
+/components
+  /Layout.js
+  /Navbar.js
+/pages
+  /api
+    /auth.js
+  /_app.js
+  /index.js
+  /login.js
+  /signup.js
+  /admin.js
+  /checkout.js
+  /my-orders.js
+/styles
+  /globals.css
